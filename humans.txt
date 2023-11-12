@@ -1,6 +1,10 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
+<<<<<<< HEAD
 # TEST commit
+=======
+
+>>>>>>> 38e2da2fc9cb13558068ab0f42bbb6b61c8c279a
 # TEAM
 
     <name> -- <role> -- <twitter>
@@ -13,5 +17,8 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+<<<<<<< HEAD
     
     REBASE
+=======
+>>>>>>> 38e2da2fc9cb13558068ab0f42bbb6b61c8c279a

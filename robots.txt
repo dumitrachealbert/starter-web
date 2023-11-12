@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 # www.robotstxt.org/
 
 # Allow crawling of all content
 User-agent: *
 Disallow:
+=======
+# robotstxt.org/
+TEST
+User-agent: *
+>>>>>>> 38e2da2fc9cb13558068ab0f42bbb6b61c8c279a
